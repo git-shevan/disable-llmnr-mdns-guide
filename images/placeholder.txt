@@ -1,0 +1,15 @@
+This file is a placeholder to indicate that the following images should be uploaded to this directory:
+
+1. disable mdsn.png - Screenshot showing the mDNS registry settings
+2. group_policy.png - Screenshot showing the Group Policy objects structure
+3. stepbysearch.png - Screenshot showing how to search for the LLMNR policy
+
+The images need to be uploaded manually as they are binary files.
+
+Instructions for uploading:
+1. Go to the images directory in the GitHub repository
+2. Click the "Add file" button and select "Upload files"
+3. Drag and drop or select the image files
+4. Commit the changes
+
+Once the images are uploaded, this placeholder file can be deleted.
